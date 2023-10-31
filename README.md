@@ -3,7 +3,10 @@
 <h2>Chat Room Aplication</h2>
 
 <hr></hr>
+
 ![](src/chat.gif)
+
+<hr></hr>
 
 
 
